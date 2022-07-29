@@ -39,6 +39,7 @@ jobs:
           haxelib run lime setup flixel
           haxelib run lime setup
           haxelib install flixel-tools
+          haxelib install extension-webview
           haxelib install flixel-ui
           haxelib install flixel-addons
           haxelib install tjson
